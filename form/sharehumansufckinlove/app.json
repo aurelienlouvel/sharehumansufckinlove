@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sharehumansufckinlove",
-    "slug": "sharehumansufckinlove",
+    "name": "#sharehumansufckinlove",
+    "slug": "#sharehumansufckinlove",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "9f14e527-05df-47e2-b65e-3c0d54f89d4e"
+      }
+    },
+    "owner": "sharehumansufckinlove"
   }
 }
